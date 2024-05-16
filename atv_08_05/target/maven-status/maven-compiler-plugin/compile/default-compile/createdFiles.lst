@@ -1,1 +1,14 @@
 br\unipar\atv_08_05\Atv_08_05.class
+br\unipar\atv_08_05\frames\Menu$1.class
+br\unipar\atv_08_05\frames\Menu.class
+br\unipar\atv_08_05\frames\DAO\PessoaDAO.class
+br\unipar\atv_08_05\frames\Menu$2.class
+br\unipar\atv_08_05\frames\Menu$3.class
+br\unipar\atv_08_05\frames\TelaManipulacaoArquivo$2.class
+br\unipar\atv_08_05\frames\TelaManipulacaoArquivo.class
+br\unipar\atv_08_05\frames\ExportacaoFrame$2.class
+br\unipar\atv_08_05\frames\TelaManipulacaoArquivo$1.class
+br\unipar\atv_08_05\frames\ExportacaoFrame$1.class
+br\unipar\atv_08_05\util\EntityManagerUtil.class
+br\unipar\atv_08_05\frames\ExportacaoFrame.class
+br\unipar\atv_08_05\models\Pessoa.class
